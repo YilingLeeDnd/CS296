@@ -1,0 +1,6 @@
+D:\Traning\296-Csharp\CS296\PokemonRunCore\PokemonRunCore\bin\Debug\PokemonRunCore.dll
+D:\Traning\296-Csharp\CS296\PokemonRunCore\PokemonRunCore\bin\Debug\PokemonRunCore.pdb
+D:\Traning\296-Csharp\CS296\PokemonRunCore\PokemonRunCore\obj\Debug\PokemonRunCore.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\PokemonRunCore\PokemonRunCore\obj\Debug\PokemonRunCore.dll
+D:\Traning\296-Csharp\CS296\PokemonRunCore\PokemonRunCore\obj\Debug\PokemonRunCore.pdb
+D:\Traning\296-Csharp\CS296\PokemonRunCore\PokemonRunCore\obj\Debug\PokemonRunCore.csprojResolveAssemblyReference.cache

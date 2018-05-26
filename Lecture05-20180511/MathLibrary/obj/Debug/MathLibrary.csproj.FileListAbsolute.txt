@@ -1,0 +1,6 @@
+D:\Traning\296-Csharp\CS296\Lecture05-20180511\MathLibrary\bin\Debug\MathLibrary.dll
+D:\Traning\296-Csharp\CS296\Lecture05-20180511\MathLibrary\bin\Debug\MathLibrary.pdb
+D:\Traning\296-Csharp\CS296\Lecture05-20180511\MathLibrary\obj\Debug\MathLibrary.csprojResolveAssemblyReference.cache
+D:\Traning\296-Csharp\CS296\Lecture05-20180511\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\Lecture05-20180511\MathLibrary\obj\Debug\MathLibrary.dll
+D:\Traning\296-Csharp\CS296\Lecture05-20180511\MathLibrary\obj\Debug\MathLibrary.pdb

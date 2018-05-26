@@ -1,0 +1,6 @@
+D:\Traning\296-Csharp\CS296\Lecture03-20180504\Example03\bin\Debug\Example03.exe.config
+D:\Traning\296-Csharp\CS296\Lecture03-20180504\Example03\bin\Debug\Example03.exe
+D:\Traning\296-Csharp\CS296\Lecture03-20180504\Example03\bin\Debug\Example03.pdb
+D:\Traning\296-Csharp\CS296\Lecture03-20180504\Example03\obj\Debug\Example03.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\Lecture03-20180504\Example03\obj\Debug\Example03.exe
+D:\Traning\296-Csharp\CS296\Lecture03-20180504\Example03\obj\Debug\Example03.pdb

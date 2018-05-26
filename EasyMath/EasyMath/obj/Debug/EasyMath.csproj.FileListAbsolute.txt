@@ -1,0 +1,6 @@
+D:\Traning\296-Csharp\CS296\EasyMath\EasyMath\obj\Debug\EasyMath.csprojResolveAssemblyReference.cache
+D:\Traning\296-Csharp\CS296\EasyMath\EasyMath\obj\Debug\EasyMath.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\EasyMath\EasyMath\bin\Debug\EasyMath.dll
+D:\Traning\296-Csharp\CS296\EasyMath\EasyMath\bin\Debug\EasyMath.pdb
+D:\Traning\296-Csharp\CS296\EasyMath\EasyMath\obj\Debug\EasyMath.dll
+D:\Traning\296-Csharp\CS296\EasyMath\EasyMath\obj\Debug\EasyMath.pdb

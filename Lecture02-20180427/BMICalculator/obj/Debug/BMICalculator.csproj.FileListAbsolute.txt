@@ -1,0 +1,10 @@
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\BMICalculator\bin\Debug\BMICalculator.exe.config
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\BMICalculator\bin\Debug\BMICalculator.exe
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\BMICalculator\bin\Debug\BMICalculator.pdb
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\BMICalculator\obj\Debug\BMICalculator.csprojResolveAssemblyReference.cache
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\BMICalculator\obj\Debug\BMICalculator.MainWindow.resources
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\BMICalculator\obj\Debug\BMICalculator.exe
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\BMICalculator\obj\Debug\BMICalculator.pdb

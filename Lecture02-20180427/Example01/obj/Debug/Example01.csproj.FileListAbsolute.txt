@@ -1,0 +1,7 @@
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\Example01\bin\Debug\Example01.exe.config
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\Example01\bin\Debug\Example01.exe
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\Example01\bin\Debug\Example01.pdb
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\Example01\obj\Debug\Example01.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\Example01\obj\Debug\Example01.exe
+D:\Traning\296-Csharp\CS296\Lecture02-2080427\Example01\obj\Debug\Example01.pdb

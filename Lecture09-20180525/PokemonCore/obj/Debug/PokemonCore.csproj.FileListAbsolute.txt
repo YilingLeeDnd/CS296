@@ -1,0 +1,6 @@
+D:\Traning\296-Csharp\CS296\Lecture09-20180525\PokemonCore\bin\Debug\PokemonCore.dll
+D:\Traning\296-Csharp\CS296\Lecture09-20180525\PokemonCore\bin\Debug\PokemonCore.pdb
+D:\Traning\296-Csharp\CS296\Lecture09-20180525\PokemonCore\obj\Debug\PokemonCore.csprojResolveAssemblyReference.cache
+D:\Traning\296-Csharp\CS296\Lecture09-20180525\PokemonCore\obj\Debug\PokemonCore.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\Lecture09-20180525\PokemonCore\obj\Debug\PokemonCore.dll
+D:\Traning\296-Csharp\CS296\Lecture09-20180525\PokemonCore\obj\Debug\PokemonCore.pdb
