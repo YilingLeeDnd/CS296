@@ -1,0 +1,12 @@
+D:\Traning\296-Csharp\CS296\Homework\Exercise03-Array\bin\Debug\Exercise03-Array.exe.config
+D:\Traning\296-Csharp\CS296\Homework\Exercise03-Array\bin\Debug\Exercise03-Array.exe
+D:\Traning\296-Csharp\CS296\Homework\Exercise03-Array\bin\Debug\Exercise03-Array.pdb
+D:\Traning\296-Csharp\CS296\Homework\Exercise03-Array\obj\Debug\Exercise03-Array.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\Homework\Exercise03-Array\obj\Debug\Exercise03-Array.exe
+D:\Traning\296-Csharp\CS296\Homework\Exercise03-Array\obj\Debug\Exercise03-Array.pdb
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise03-Array\bin\Debug\Exercise03-Array.exe.config
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise03-Array\bin\Debug\Exercise03-Array.exe
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise03-Array\bin\Debug\Exercise03-Array.pdb
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise03-Array\obj\Debug\Exercise03-Array.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise03-Array\obj\Debug\Exercise03-Array.exe
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise03-Array\obj\Debug\Exercise03-Array.pdb

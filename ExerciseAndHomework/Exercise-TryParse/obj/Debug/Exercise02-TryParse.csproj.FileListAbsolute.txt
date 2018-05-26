@@ -1,0 +1,13 @@
+D:\Traning\296-Csharp\CS296\Homework\Exercise-TryParse\bin\Debug\Exercise-TryParse.exe.config
+D:\Traning\296-Csharp\CS296\Homework\Exercise-TryParse\bin\Debug\Exercise-TryParse.exe
+D:\Traning\296-Csharp\CS296\Homework\Exercise-TryParse\bin\Debug\Exercise-TryParse.pdb
+D:\Traning\296-Csharp\CS296\Homework\Exercise-TryParse\obj\Debug\Exercise02-TryParse.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\Homework\Exercise-TryParse\obj\Debug\Exercise-TryParse.exe
+D:\Traning\296-Csharp\CS296\Homework\Exercise-TryParse\obj\Debug\Exercise-TryParse.pdb
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise-TryParse\bin\Debug\Exercise-TryParse.exe.config
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise-TryParse\bin\Debug\Exercise-TryParse.exe
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise-TryParse\bin\Debug\Exercise-TryParse.pdb
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise-TryParse\obj\Debug\Exercise02-TryParse.csprojResolveAssemblyReference.cache
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise-TryParse\obj\Debug\Exercise02-TryParse.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise-TryParse\obj\Debug\Exercise-TryParse.exe
+D:\Traning\296-Csharp\CS296\ExerciseAndHomework\Exercise-TryParse\obj\Debug\Exercise-TryParse.pdb

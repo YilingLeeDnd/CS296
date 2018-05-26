@@ -1,0 +1,7 @@
+D:\Traning\296-Csharp\CS296\Homework\Random\bin\Debug\Random.exe.config
+D:\Traning\296-Csharp\CS296\Homework\Random\bin\Debug\Random.exe
+D:\Traning\296-Csharp\CS296\Homework\Random\bin\Debug\Random.pdb
+D:\Traning\296-Csharp\CS296\Homework\Random\obj\Debug\RandomNo.csproj.CoreCompileInputs.cache
+D:\Traning\296-Csharp\CS296\Homework\Random\obj\Debug\Random.exe
+D:\Traning\296-Csharp\CS296\Homework\Random\obj\Debug\Random.pdb
+D:\Traning\296-Csharp\CS296\Homework\Random\obj\Debug\RandomNo.csprojResolveAssemblyReference.cache
